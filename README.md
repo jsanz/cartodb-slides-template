@@ -9,5 +9,5 @@ You can download the full [reveal.js](https://github.com/hakimel/reveal.js/) dis
 some fonts will be missed. Also you can tweak the index.html for custom options on the slides, see the
 reveal.js documentation.
 
-Have a nice day
-  [Jorge Sanz](http://twitter.com/xurxosanz)
+Have a nice day<br/>
+[Jorge Sanz](http://twitter.com/xurxosanz)
