@@ -7,7 +7,8 @@ Talk title
 * Date, etc
 
 Note:
-Anything after `Note:` will be taken as part of the speaker notes. Super useful.
+Anything after Note will be taken as part of the speaker notes. Super useful.
+Remember that pressing the `S` key you get the notes.
 ___
 
 ## Agenda
